@@ -67,7 +67,7 @@ Weather data is powered by [OpenWeatherMap](https://openweathermap.org/api)
 
 For any queries or feedback, feel free to connect:
 
-📧 Email: [badalsh908@email.com](mailto:badalsh908@gmail.com)  
+📧 Email: [badalsh908@gmail.com](mailto:badalsh908@gmail.com)  
 🐙 GitHub: [github.com/badalm06](https://github.com/badalm06)
 
 
