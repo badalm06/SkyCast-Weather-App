@@ -2,7 +2,6 @@
 
 SkyCast is a simple and clean Android weather app built with **Kotlin** using **Retrofit** and **OpenWeatherMap API**. It fetches real-time weather data for any city and provides current temperature, weather condition, humidity, wind speed, pressure, and sunrise/sunset times.
 
-![Made with Kotlin](https://img.shields.io/badge/Made%20with-Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin)
 
 
 ---
